@@ -7,6 +7,7 @@ import PageNotFound from "./pages/PageNotFound";
 
 const App = () => {
   return (
+
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Homepage />} />
