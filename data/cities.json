@@ -35,50 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Santo Domingo de Silos",
-      "country": "Spain",
-      "date": "2024-04-03T09:18:13.974Z",
-      "notes": "Try",
-      "position": {
-        "lat": "41.95442838789789",
-        "lng": "-3.3789961430982167"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Lecera",
-      "country": "Spain",
-      "date": "2024-04-03T09:21:14.127Z",
-      "notes": "FUN",
-      "position": {
-        "lat": "41.14835047499279",
-        "lng": "-0.6991247080961728"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Balearic Sea",
-      "country": "Spain",
-      "date": "2024-04-03T09:23:59.025Z",
-      "notes": "Try",
-      "position": {
-        "lat": "40.26652293240197",
-        "lng": "0.42250869944025826"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Noceda del Bierzo",
-      "country": "Spain",
-      "date": "2024-04-03T09:25:46.264Z",
-      "notes": "NO",
-      "position": {
-        "lat": "42.68532895447776",
-        "lng": "-6.34737299922572"
-      },
-      "id": 98443201
     }
   ]
 }
