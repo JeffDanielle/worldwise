@@ -12,7 +12,7 @@ function reducer(state, action) {
         case 'login':
             return {
                 ...state,
-                user: action.payload.user,
+                user: action.payload,
                 isAuthenticated: true
             }
         case 'logout':
