@@ -23,7 +23,7 @@ function Map() {
     }, [geoLocationPosition])
 
     return (
-        <div className={styles.mapContainer} onClick={() => navigate("form")}>
+        <div className={styles.mapContainer}>
             {!geoLocationPosition &&
                 <Button type="position" onClick={getPosition}>
                     {isLoadingPosition ? 'Loading...' : 'Use your position'}
